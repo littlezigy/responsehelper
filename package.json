@@ -1,0 +1,23 @@
+{
+  "name": "@littlezigy/responsehelper",
+  "version": "1.0.0",
+  "description": "A wrapper for express res object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec 'jest --runInBand'"
+  },
+  "keywords": [
+    "response",
+    "helper",
+    "res"
+  ],
+  "author": "Adesuwa T. Dawodu",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "supertest": "^4.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
