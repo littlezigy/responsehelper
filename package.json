@@ -13,6 +13,7 @@
   ],
   "author": "Adesuwa T. Dawodu",
   "license": "ISC",
+  "repository": "https://github.com/littlezigy/responsehelper.git",
   "devDependencies": {
     "express": "^4.17.1",
     "supertest": "^4.0.2"
